@@ -1,0 +1,42 @@
+{
+    "uid": "35E5809A5C23E44F1E0A10D55C5338BC42FB",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Final Humanoid Form",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "35E5809A5C23E44F1E0A10D55C5338BC42FB",
+        "isFolder": false,
+        "parentId": "61AD246D3DE0434B90181AC16125ED4EAB11",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Final Humanoid Form",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "HumanoidVenus3",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "35E5809A5C23E44F1E0A10D55C5338BC42FB"
+        },
+        "order": 2
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

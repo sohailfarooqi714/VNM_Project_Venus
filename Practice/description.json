@@ -1,0 +1,7 @@
+{ 
+    "name": "Scene-based UI Example 1080p", 
+    "default": false,
+    "group": "com.degica.vnm",
+    "order": 3 
+}    
+

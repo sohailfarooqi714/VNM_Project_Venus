@@ -1,0 +1,1524 @@
+[
+    {
+        "path": "Graphics",
+        "resources": []
+    },
+    {
+        "path": "Graphics/Characters",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "3410065E31823840CA38ABB7E433520D5545",
+                "displayName": "Venus",
+                "resources": [
+                    {
+                        "name": "HumanoidVenus1",
+                        "type": "graphic",
+                        "parent": "3410065E31823840CA38ABB7E433520D5545",
+                        "isa": null,
+                        "_UID": 1472466
+                    },
+                    {
+                        "name": "HumanoidVenus2",
+                        "type": "graphic",
+                        "parent": "3410065E31823840CA38ABB7E433520D5545",
+                        "isa": null,
+                        "_UID": 1472468
+                    },
+                    {
+                        "name": "HumanoidVenus3",
+                        "type": "graphic",
+                        "parent": "3410065E31823840CA38ABB7E433520D5545",
+                        "isa": null,
+                        "_UID": 1472470
+                    }
+                ],
+                "isa": null,
+                "_UID": 1280477
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Backgrounds",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "6BEA595C200614429D299B430F2870E99EC2",
+                "displayName": "Backgrounds",
+                "resources": [
+                    {
+                        "name": "Scene0",
+                        "type": "graphic",
+                        "parent": "6BEA595C200614429D299B430F2870E99EC2",
+                        "isa": null,
+                        "_UID": 41141454
+                    },
+                    {
+                        "name": "Scene1A",
+                        "type": "graphic",
+                        "parent": "6BEA595C200614429D299B430F2870E99EC2",
+                        "isa": null,
+                        "_UID": 1268747
+                    },
+                    {
+                        "name": "Scene1B",
+                        "type": "graphic",
+                        "parent": "6BEA595C200614429D299B430F2870E99EC2",
+                        "isa": null,
+                        "_UID": 1268749
+                    },
+                    {
+                        "name": "Scene2",
+                        "type": "graphic",
+                        "parent": "6BEA595C200614429D299B430F2870E99EC2",
+                        "isa": null,
+                        "_UID": 1268751
+                    },
+                    {
+                        "name": "Scene3",
+                        "type": "graphic",
+                        "parent": "6BEA595C200614429D299B430F2870E99EC2",
+                        "isa": null,
+                        "_UID": 1268753
+                    },
+                    {
+                        "name": "Scene5",
+                        "type": "graphic",
+                        "parent": "6BEA595C200614429D299B430F2870E99EC2",
+                        "isa": null,
+                        "_UID": 1268755
+                    }
+                ],
+                "isa": null,
+                "_UID": 1216231
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Pictures",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                "displayName": "CG Gallery",
+                "resources": [
+                    {
+                        "name": "Metis_CG",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 146661
+                    },
+                    {
+                        "name": "Home",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 40529095
+                    },
+                    {
+                        "name": "HomeThumb",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 40529097
+                    },
+                    {
+                        "name": "Metis_CG_Thumb",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 146663
+                    }
+                ],
+                "isa": null,
+                "_UID": 130585
+            },
+            {
+                "type": "folder",
+                "name": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                "displayName": "In-Game UI",
+                "resources": [
+                    {
+                        "name": "CGGallery_Hover",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 112763,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "cggallery_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901766
+                    },
+                    {
+                        "name": "cggallery_hover_2",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901764
+                    },
+                    {
+                        "name": "CGGallery_Idle",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 112765,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "cggallery_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901770
+                    },
+                    {
+                        "name": "cggallery_idle_2",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901768
+                    },
+                    {
+                        "name": "cggallery_select",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901774
+                    },
+                    {
+                        "name": "cggallery_select_2",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901772
+                    },
+                    {
+                        "name": "CGGallery_Selected",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 112767,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "choice_active",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901776
+                    },
+                    {
+                        "name": "Choice_Active",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 5946579
+                    },
+                    {
+                        "name": "choice_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 40534048
+                    },
+                    {
+                        "name": "Choice_Idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 5946577
+                    },
+                    {
+                        "name": "Choice_Locked",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 5946581
+                    },
+                    {
+                        "name": "languagescreen_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901784
+                    },
+                    {
+                        "name": "languagescreen_hover_2",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901782
+                    },
+                    {
+                        "name": "languagescreen_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901788
+                    },
+                    {
+                        "name": "languagescreen_idle_2",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901786
+                    },
+                    {
+                        "name": "loadgame_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901790
+                    },
+                    {
+                        "name": "LoadGame_Hover",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293185,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "loadgame_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901792
+                    },
+                    {
+                        "name": "LoadGame_Idle",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293187,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "LoadGame_Selected",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 115180,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "loadgame_selected",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901794
+                    },
+                    {
+                        "name": "LOGO",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901796
+                    },
+                    {
+                        "name": "msgbox_ground",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901800
+                    },
+                    {
+                        "name": "msgbox_ground_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901798
+                    },
+                    {
+                        "name": "msgbox_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901804
+                    },
+                    {
+                        "name": "msgbox_hover_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901802
+                    },
+                    {
+                        "name": "msgbox_selected",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901808
+                    },
+                    {
+                        "name": "msgbox_selected_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901806
+                    },
+                    {
+                        "name": "nameentry_abc_ground",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901810
+                    },
+                    {
+                        "name": "nameentry_abc_selected",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901812
+                    },
+                    {
+                        "name": "nameentry_sym_ground",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901814
+                    },
+                    {
+                        "name": "nameentry_sym_selected",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901816
+                    },
+                    {
+                        "name": "NE-ACTIVE-STF",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 3109846
+                    },
+                    {
+                        "name": "NE-IDLE-STF",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 1817969
+                    },
+                    {
+                        "name": "ne_active_stf",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901818
+                    },
+                    {
+                        "name": "ne_idle_stf",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901820
+                    },
+                    {
+                        "name": "prompt_confirm_load_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901822
+                    },
+                    {
+                        "name": "prompt_confirm_save_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901824
+                    },
+                    {
+                        "name": "prompt_confirm_saveload",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901828
+                    },
+                    {
+                        "name": "Prompt_Confirm_SaveLoad",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293225,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "prompt_confirm_saveload_overwrite_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901826
+                    },
+                    {
+                        "name": "Prompt_No_Hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901830
+                    },
+                    {
+                        "name": "Prompt_No_Idle",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293229,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "prompt_no_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901832
+                    },
+                    {
+                        "name": "prompt_quit",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901836
+                    },
+                    {
+                        "name": "Prompt_Quit",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293231,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "prompt_quit_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901834
+                    },
+                    {
+                        "name": "Prompt_Yes_Hover",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293233,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "Prompt_yes_Hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901838
+                    },
+                    {
+                        "name": "Prompt_Yes_Idle",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293235,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "Prompt_yes_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901840
+                    },
+                    {
+                        "name": "savegame_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901842
+                    },
+                    {
+                        "name": "SaveGame_Hover",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293237,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "savegame_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901844
+                    },
+                    {
+                        "name": "SaveGame_Idle",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293239,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "SaveGame_Selected",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 111986,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "savegame_selected",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901846
+                    },
+                    {
+                        "name": "Settings_Hover",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 131502,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "settings_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901850
+                    },
+                    {
+                        "name": "settings_hover_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901848
+                    },
+                    {
+                        "name": "settings_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901854
+                    },
+                    {
+                        "name": "Settings_Idle",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 131504,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "settings_idle_j",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901852
+                    },
+                    {
+                        "name": "slider_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901856
+                    },
+                    {
+                        "name": "titlescreen_hover",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901860
+                    },
+                    {
+                        "name": "choice_locked",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 40534106
+                    },
+                    {
+                        "name": "MetalSeinenLogo",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "titlescreen_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901858
+                    }
+                ],
+                "isa": null,
+                "_UID": 369213
+            },
+            {
+                "type": "folder",
+                "name": "B348D0B75C00794AD85A3FD9E7F09BE27DB6",
+                "displayName": "Items",
+                "resources": [
+                    {
+                        "name": "01_phone",
+                        "type": "graphic",
+                        "parent": "B348D0B75C00794AD85A3FD9E7F09BE27DB6",
+                        "isa": null,
+                        "_UID": 40575839
+                    },
+                    {
+                        "name": "00_key",
+                        "type": "graphic",
+                        "parent": "B348D0B75C00794AD85A3FD9E7F09BE27DB6",
+                        "isa": null,
+                        "_UID": 40575841
+                    }
+                ],
+                "isa": null,
+                "_UID": 219759
+            },
+            {
+                "type": "folder",
+                "name": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                "displayName": "UI",
+                "resources": [
+                    {
+                        "type": "folder",
+                        "name": "8FDE85958752764F2A7A7717D3A4CE79AEAE",
+                        "displayName": "Cursor",
+                        "resources": [
+                            {
+                                "name": "cursor1",
+                                "type": "graphic",
+                                "parent": "8FDE85958752764F2A7A7717D3A4CE79AEAE"
+                            },
+                            {
+                                "name": "cursor2",
+                                "type": "graphic",
+                                "parent": "8FDE85958752764F2A7A7717D3A4CE79AEAE"
+                            },
+                            {
+                                "name": "cursor3",
+                                "type": "graphic",
+                                "parent": "8FDE85958752764F2A7A7717D3A4CE79AEAE"
+                            },
+                            {
+                                "name": "cursor4",
+                                "type": "graphic",
+                                "parent": "8FDE85958752764F2A7A7717D3A4CE79AEAE"
+                            }
+                        ],
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 187097
+                    },
+                    {
+                        "type": "folder",
+                        "name": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                        "displayName": "Mobile",
+                        "resources": [
+                            {
+                                "name": "m-arrow",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109865
+                            },
+                            {
+                                "name": "m-arrow-disabled",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109867
+                            },
+                            {
+                                "name": "m-diamond-large-off",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109869
+                            },
+                            {
+                                "name": "m-diamond-large-on",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109871
+                            },
+                            {
+                                "name": "m-diamond-small-off",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109873
+                            },
+                            {
+                                "name": "m-diamond-small-on",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109875
+                            },
+                            {
+                                "name": "msg-diamond-small-off",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109877
+                            },
+                            {
+                                "name": "msg-diamond-small-on",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null,
+                                "_UID": 3109879
+                            }
+                        ],
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130918
+                    },
+                    {
+                        "name": "bg-generic",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130920
+                    },
+                    {
+                        "name": "diamond-large-off",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130922
+                    },
+                    {
+                        "name": "diamond-large-on",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130924
+                    },
+                    {
+                        "name": "diamond-small-off",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130926
+                    },
+                    {
+                        "name": "diamond-small-on",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130928
+                    },
+                    {
+                        "name": "dropshadow",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130930
+                    },
+                    {
+                        "name": "entrybox",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130932
+                    },
+                    {
+                        "name": "locked",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130934
+                    },
+                    {
+                        "name": "message_caret",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 174388
+                    },
+                    {
+                        "name": "scrollbar",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130936
+                    },
+                    {
+                        "name": "selection",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130938
+                    },
+                    {
+                        "name": "selection-inactive",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130940
+                    },
+                    {
+                        "name": "skin-frame",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130942
+                    },
+                    {
+                        "name": "skin-stretch",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130944
+                    },
+                    {
+                        "name": "skin-tile",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130946
+                    },
+                    {
+                        "name": "thumbnailshadow",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130948
+                    }
+                ],
+                "isa": null,
+                "_UID": 130587
+            },
+            {
+                "name": "web-start-screen",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 279255
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Icons",
+        "resources": [
+            {
+                "name": "Germany",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 1156828
+            },
+            {
+                "name": "Japan",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 1156830
+            },
+            {
+                "name": "United-Kingdom",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 1156832
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Masks",
+        "resources": [
+            {
+                "name": "Blinds_Hor",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137245
+            },
+            {
+                "name": "Blinds_V",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137247
+            },
+            {
+                "name": "Circle",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137249
+            },
+            {
+                "name": "Circle_Square",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137251
+            },
+            {
+                "name": "Circle_Square_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137253
+            },
+            {
+                "name": "Circle_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137255
+            },
+            {
+                "name": "Dissolve",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137257
+            },
+            {
+                "name": "Dissolve_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137259
+            },
+            {
+                "name": "Heart",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137261
+            },
+            {
+                "name": "Heart_Square",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137263
+            },
+            {
+                "name": "Heart_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137265
+            },
+            {
+                "name": "HeartB",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137267
+            },
+            {
+                "name": "HeartB_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137269
+            },
+            {
+                "name": "Rect",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137271
+            },
+            {
+                "name": "Rect_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137273
+            },
+            {
+                "name": "Splotches",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137275
+            },
+            {
+                "name": "Splotches_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137277
+            },
+            {
+                "name": "Star",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137279
+            },
+            {
+                "name": "Star_Square",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137281
+            },
+            {
+                "name": "Star_Square_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137283
+            },
+            {
+                "name": "Star_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 137285
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Fonts",
+        "resources": [
+            {
+                "name": "Rubik-Regular",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 368378
+            },
+            {
+                "name": "Tallys",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 368380
+            }
+        ]
+    },
+    {
+        "path": "Audio/Music",
+        "resources": [
+            {
+                "name": "Competitive_-_Fired_Up",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288695
+            },
+            {
+                "name": "Festival_-_Celebrating_Tradition",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288697
+            },
+            {
+                "name": "Nostalgia_-_Fond_Memories",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288699
+            },
+            {
+                "name": "Playful_-_Kidding_Around",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288701
+            },
+            {
+                "name": "Romance_-_Dreaming_Of_You",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288703
+            },
+            {
+                "name": "Romance_-_Love_Never_Ends",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288705
+            },
+            {
+                "name": "Sad_-_Wistful_Longing",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288707
+            },
+            {
+                "name": "School_-_First_Day",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288709
+            },
+            {
+                "name": "School_-_Lunch_Break",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288711
+            },
+            {
+                "name": "Theme_-_Forever_Together",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288713
+            },
+            {
+                "name": "Tutorial_-_Good_Mood",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288715
+            },
+            {
+                "type": "folder",
+                "name": "B354E9FF1447504D067830964CED41FCB49B",
+                "displayName": "New Group",
+                "resources": [],
+                "isa": null,
+                "_UID": 161734
+            },
+            {
+                "name": "Wedding_-_Wedding_March",
+                "type": "audio",
+                "isa": null,
+                "_UID": 288717
+            }
+        ]
+    },
+    {
+        "path": "Audio/Sounds",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "EBDB475A7FA6084E9F692D17174FF0158E31",
+                "displayName": "Music Effects",
+                "resources": [
+                    {
+                        "name": "ME_-_school_chimes_01",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_-_school_chimes_02",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Game_Over",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Level_Up_Fail",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Level_Up_Success",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Sleep_01",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Sleep_02",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    }
+                ],
+                "isa": null,
+                "_UID": 291116
+            },
+            {
+                "type": "folder",
+                "name": "596171293B19A645921AD5A2DF965604D3E1",
+                "displayName": "Sound Effects",
+                "resources": [
+                    {
+                        "name": "ambulance_siren",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "basketball_bounce_single",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "basketball_dribble",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "book_close",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "book_page_turn",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cellphone_ring",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cellphone_text_message_received",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "chair_squeaky",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cicadas",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "clock_chime",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "clock_tick_tock_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "clock_tick_tock_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cooking_boiling_water",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cooking_frying_sizzle",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cooking_oven_burner",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_close",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_open",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_open_creaky",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_sliding",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "fire_alarm_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "fire_alarm_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_creaky_stairs",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_fast",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_normal",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_slow",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "glass_break_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "glass_break_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "school_bell",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "school_chalk_on_chalkboard",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "thud_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "thud_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "thud_03",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_inkpen",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_pencil_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_pencil_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_pencil_eraser",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    }
+                ],
+                "isa": null,
+                "_UID": 292980
+            },
+            {
+                "type": "folder",
+                "name": "ABCD5AC67A276749B11AC05560C3D6482B3D",
+                "displayName": "System",
+                "resources": [
+                    {
+                        "name": "choice_cancel_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_confirm_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_confirm_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_confirm_03",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "cursor",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "exit_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "exit_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "invalid_buzz_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "invalid_buzz_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "invalid_buzz_03",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "load_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "load_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "save_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "save_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_cancel_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    }
+                ],
+                "isa": null,
+                "_UID": 337064
+            }
+        ]
+    },
+    {
+        "path": "Live2D",
+        "resources": []
+    },
+    {
+        "path": "Movies",
+        "resources": [
+            {
+                "name": "lrain.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235898
+            },
+            {
+                "name": "fog.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235900
+            },
+            {
+                "name": "rays.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235902
+            },
+            {
+                "name": "rain2.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235904
+            },
+            {
+                "name": "snow.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235906
+            },
+            {
+                "name": "rain1-white.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235908
+            },
+            {
+                "name": "rain1.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235910
+            },
+            {
+                "name": "blizzard.webmhd",
+                "type": "video",
+                "isa": null,
+                "_UID": 60235912
+            }
+        ]
+    }
+]

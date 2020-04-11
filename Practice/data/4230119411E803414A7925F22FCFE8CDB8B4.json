@@ -1,0 +1,23 @@
+{
+    "uid": "4230119411E803414A7925F22FCFE8CDB8B4",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Test",
+        "type": "data_record",
+        "category": "commonEvents",
+        "isFolder": true,
+        "parentId": "ROOT",
+        "data": {
+            "name": "Test",
+            "isFolder": true
+        },
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

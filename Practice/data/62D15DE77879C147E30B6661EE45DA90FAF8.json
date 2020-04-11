@@ -1,0 +1,198 @@
+{
+    "uid": "62D15DE77879C147E30B6661EE45DA90FAF8",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Test",
+        "type": "data_record",
+        "category": "commonEvents",
+        "id": "62D15DE77879C147E30B6661EE45DA90FAF8",
+        "isFolder": false,
+        "parentId": "4230119411E803414A7925F22FCFE8CDB8B4",
+        "data": {
+            "name": "Test",
+            "startCondition": 0,
+            "conditionEnabled": false,
+            "parallel": false,
+            "autoPreload": true,
+            "singleInstance": true,
+            "inline": false,
+            "parameters": [],
+            "commands": [
+                {
+                    "id": "gs.ListAdd",
+                    "params": {
+                        "valueType": 2,
+                        "listVariable": {
+                            "name": "Choices",
+                            "index": 0,
+                            "scope": 1,
+                            "domain": "com.degica.vnm.default"
+                        },
+                        "numberValue": 0,
+                        "switchValue": {
+                            "scope": 1,
+                            "index": 0,
+                            "domain": "com.degica.vnm.default"
+                        },
+                        "stringValue": {
+                            "name": "Text",
+                            "index": 0,
+                            "scope": 0
+                        },
+                        "listValue": {
+                            "scope": 1,
+                            "index": 0,
+                            "domain": "com.degica.vnm.default"
+                        },
+                        "previewBackground": {
+                            "name": "$live_preview_snapshot"
+                        }
+                    },
+                    "indent": 0,
+                    "uid": "575E8A317F3CE243AB89EF47154DE578B047"
+                },
+                {
+                    "id": "gs.ChangeTextSettings",
+                    "params": {
+                        "numberDomain": "com.degica.vnm.default",
+                        "number": 1,
+                        "bold": 0,
+                        "italic": 0,
+                        "underline": 0,
+                        "smallCaps": 0,
+                        "strikeThrough": 0,
+                        "lineSpacing": 0,
+                        "padding": [
+                            6,
+                            0,
+                            6,
+                            0
+                        ],
+                        "font": "Verdana",
+                        "size": 40,
+                        "outline": 1,
+                        "shadow": 0,
+                        "outlineColor": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 255,
+                            "alpha": 255
+                        },
+                        "shadowColor": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 255
+                        },
+                        "fieldFlags": {
+                            "font": 1,
+                            "size": 0,
+                            "color": 0,
+                            "bold": 1,
+                            "italic": 1,
+                            "smallCaps": 1,
+                            "underline": 1,
+                            "strikeThrough": 1,
+                            "lineSpacing": 1,
+                            "outline": 0,
+                            "outlineColor": 0,
+                            "outlineSize": 1,
+                            "shadow": 1,
+                            "shadowColor": 1,
+                            "shadowOffsetX": 1,
+                            "shadowOffsetY": 1,
+                            "padding.0": 1,
+                            "padding.1": 1,
+                            "padding.2": 1,
+                            "padding.3": 1
+                        },
+                        "previewBackground": {
+                            "name": "$live_preview_snapshot"
+                        },
+                        "color": {
+                            "red": 255,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 255
+                        }
+                    },
+                    "uid": "FE2BD0206495004D954939184FA9A5A51A0C",
+                    "indent": 0,
+                    "expanded": true
+                },
+                {
+                    "id": "gs.InputText",
+                    "params": {
+                        "variable": {
+                            "scope": 1,
+                            "index": 0,
+                            "domain": "com.degica.vnm.default"
+                        },
+                        "letters": 6
+                    },
+                    "uid": "F056EBCE3345F64E768ABC62DE362020FC15",
+                    "indent": 0
+                },
+                {
+                    "id": "gs.ShowMessage",
+                    "params": {
+                        "waitForCompletion": 1,
+                        "duration": 15,
+                        "expressionId": null,
+                        "custom": {
+                            "object": {
+                                "x": 0,
+                                "y": 0,
+                                "size": {
+                                    "width": 300,
+                                    "height": 100
+                                }
+                            }
+                        },
+                        "message": "",
+                        "position": 0,
+                        "characterId": 0,
+                        "partial": 0,
+                        "fieldFlags": {
+                            "duration": 1
+                        }
+                    },
+                    "indent": 0,
+                    "uid": "57B77AD261044642F55BA8455D8643BC1371",
+                    "expanded": true
+                }
+            ],
+            "index": "62D15DE77879C147E30B6661EE45DA90FAF8",
+            "booleanVariables": [
+                {
+                    "name": "",
+                    "index": 0,
+                    "scope": 0
+                }
+            ],
+            "listVariables": [
+                {
+                    "name": "",
+                    "index": 0,
+                    "scope": 0
+                }
+            ],
+            "stringVariables": [
+                {
+                    "name": "",
+                    "index": 0,
+                    "scope": 0
+                }
+            ]
+        },
+        "order": 0,
+        "localizableStrings": {}
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

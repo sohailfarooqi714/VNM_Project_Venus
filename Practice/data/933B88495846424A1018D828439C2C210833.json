@@ -1,0 +1,680 @@
+{
+    "uid": "933B88495846424A1018D828439C2C210833",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "DisclaimerScene",
+        "type": "vn.scene",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
+        "commands": [
+            {
+                "id": "gs.ChangeTextSettings",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "number": 1,
+                    "bold": 0,
+                    "italic": 0,
+                    "underline": 0,
+                    "smallCaps": 0,
+                    "strikeThrough": 0,
+                    "lineSpacing": 0,
+                    "padding": [
+                        6,
+                        0,
+                        6,
+                        0
+                    ],
+                    "font": "Verdana",
+                    "size": 40,
+                    "outline": 1,
+                    "shadow": 0,
+                    "outlineColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 255,
+                        "alpha": 255
+                    },
+                    "shadowColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "fieldFlags": {
+                        "font": 1,
+                        "size": 1,
+                        "color": 0,
+                        "bold": 1,
+                        "italic": 1,
+                        "smallCaps": 1,
+                        "underline": 1,
+                        "strikeThrough": 1,
+                        "lineSpacing": 1,
+                        "outline": 0,
+                        "outlineColor": 0,
+                        "outlineSize": 1,
+                        "shadow": 1,
+                        "shadowColor": 1,
+                        "shadowOffsetX": 1,
+                        "shadowOffsetY": 1,
+                        "padding.0": 1,
+                        "padding.1": 1,
+                        "padding.2": 1,
+                        "padding.3": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    }
+                },
+                "uid": "D4CAF6EE1842504F910B00D1FBB18CE51CDB",
+                "indent": 0,
+                "expanded": false
+            },
+            {
+                "id": "gs.ShowText",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "viewport": {
+                        "type": "ui"
+                    },
+                    "predefinedPositionId": 8,
+                    "positionType": 0,
+                    "number": 1,
+                    "duration": 120,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "positionOrigin": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "text": {
+                        "lcId": null,
+                        "defaultText": "\n\nThis kinetic novel's story and characters are fictitious. Certain long standing\ncountries, institutions, public offices are mentioned, but the characters \ninvolved are wholly imaginary.\n\nSpace and time have been rearranged to suit the convenience of this kinetic \nnovel, any resemblance to persons living or dead is coincidental. The opinions\nexpressed are those of the characters and do not represent those of people,\ninstitutions or organisations, that Metal Seinen and its may or may not be \nassociated with professional or personal capacity. Any views or opinions are \nnot intended to malign any religion, ethnic group, club organization, company\nor individual. Please Enjoy\n\n\n\n                                      \n                                      © 2020 METAL SEINEN.\n                                          All Rights Reserved. "
+                    },
+                    "position": {
+                        "x": 900,
+                        "y": 500
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 0,
+                        "easing.type": 1,
+                        "animation.type": 1,
+                        "origin": 1,
+                        "positionOrigin": 1,
+                        "zOrder": 1,
+                        "blendMode": 1,
+                        "viewport.type": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "D100FB1B45B7444DD878CAD60727EDCD7E48",
+                "indent": 0,
+                "expanded": false
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "Yes",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": null,
+                        "defaultText": "Yes"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 1,
+                    "box": {
+                        "x": 486,
+                        "y": 824,
+                        "angle": 0,
+                        "zoom": 1,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 160
+                        },
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "7CA5BA7F7E3A27428539D301D1FC6A0AE7D4"
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "No",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": null,
+                        "defaultText": "No"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 1,
+                    "box": {
+                        "x": 1110,
+                        "y": 822,
+                        "angle": 0,
+                        "zoom": 1,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 160
+                        },
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "DA523E6B8699E546F2798083424299249C8B"
+            },
+            {
+                "id": "gs.WaitCommand",
+                "params": {
+                    "time": 120
+                },
+                "uid": "0AAD1AAB326F7447CE3910969FC94A27805C",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "indent": 0,
+                "uid": "2334539711CD434EE21803010D2A42B6DB29"
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "No"
+                },
+                "indent": 0,
+                "uid": "6E8910F83ABDC1456C59990846A49194D331"
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "Yes"
+                },
+                "indent": 0,
+                "uid": "73DCB7596FE9F7452E2B01266A2D664F30D1"
+            },
+            {
+                "id": "gs.WaitCommand",
+                "params": {
+                    "time": 60
+                },
+                "uid": "5EE5C0430CF9D348AA6824A361A1A25A8E06",
+                "indent": 0
+            },
+            {
+                "id": "gs.BlendText",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "number": 1,
+                    "duration": 120,
+                    "waitForCompletion": 0,
+                    "opacity": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "fieldFlags": {
+                        "easing.type": 1
+                    }
+                },
+                "uid": "E45C0B9410C0144AB15A0058DD6EA4F5410A",
+                "indent": 0,
+                "expanded": false
+            },
+            {
+                "id": "gs.WaitCommand",
+                "params": {
+                    "time": 120
+                },
+                "uid": "4EBA9D262AB9B54F8F7861D491890BF819FC",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Scene0",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 120,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "57407E7D346ED2424C5BDA97C3E66A29DF31",
+                "indent": 0
+            },
+            {
+                "id": "gs.WaitCommand",
+                "params": {
+                    "time": 120
+                },
+                "uid": "5411FFC670C24548053BB4F1363FA040C66A",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowPicture",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "viewport": {
+                        "type": "ui"
+                    },
+                    "size": {
+                        "type": 0,
+                        "width": 100,
+                        "height": 100
+                    },
+                    "visual": {
+                        "type": 0,
+                        "quad": {
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 255
+                            }
+                        },
+                        "frame": {
+                            "thickness": 16,
+                            "cornerSize": 16
+                        },
+                        "threePartImage": {
+                            "orientation": 0
+                        }
+                    },
+                    "predefinedPositionId": 8,
+                    "number": 1,
+                    "blendMode": 0,
+                    "zOrder": 0,
+                    "duration": 120,
+                    "origin": 1,
+                    "waitForCompletion": 1,
+                    "positionType": 1,
+                    "position": {
+                        "x": 318,
+                        "y": 30,
+                        "angle": 0,
+                        "zoom": 1,
+                        "horizontalFlip": false,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 0
+                        }
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "origin": 1,
+                        "duration": 0
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "graphic": {
+                        "name": "MetalSeinenLogo",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    }
+                },
+                "uid": "3F41BB357A9B154A0D890F417BC141090792",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeTextSettings",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "number": 2,
+                    "bold": 0,
+                    "italic": 0,
+                    "underline": 0,
+                    "smallCaps": 0,
+                    "strikeThrough": 0,
+                    "lineSpacing": 0,
+                    "padding": [
+                        6,
+                        0,
+                        6,
+                        0
+                    ],
+                    "font": "Verdana",
+                    "size": 40,
+                    "outline": 1,
+                    "shadow": 0,
+                    "outlineColor": {
+                        "red": 0,
+                        "green": 63,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "shadowColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "fieldFlags": {
+                        "font": 0,
+                        "size": 0,
+                        "color": 0,
+                        "bold": 1,
+                        "italic": 1,
+                        "smallCaps": 1,
+                        "underline": 1,
+                        "strikeThrough": 1,
+                        "lineSpacing": 1,
+                        "outline": 0,
+                        "outlineColor": 0,
+                        "outlineSize": 1,
+                        "shadow": 1,
+                        "shadowColor": 1,
+                        "shadowOffsetX": 1,
+                        "shadowOffsetY": 1,
+                        "padding.0": 1,
+                        "padding.1": 1,
+                        "padding.2": 1,
+                        "padding.3": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "color": {
+                        "red": 155,
+                        "green": 71,
+                        "blue": 64,
+                        "alpha": 255
+                    }
+                },
+                "uid": "83A2FB93138E284A200A36A5E043DF632134",
+                "indent": 0,
+                "expanded": false
+            },
+            {
+                "id": "gs.ShowText",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "viewport": {
+                        "type": "ui"
+                    },
+                    "predefinedPositionId": 8,
+                    "positionType": 1,
+                    "number": 2,
+                    "duration": 30,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "positionOrigin": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "text": {
+                        "lcId": null,
+                        "defaultText": "Present to you a kinectic novel..."
+                    },
+                    "position": {
+                        "x": 650,
+                        "y": 900
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 0,
+                        "easing.type": 1,
+                        "animation.type": 1,
+                        "origin": 1,
+                        "positionOrigin": 1,
+                        "zOrder": 1,
+                        "blendMode": 1,
+                        "viewport.type": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "F5F76B8B8BE74848955B5EC3A9A23BDE772A",
+                "indent": 0,
+                "expanded": false
+            },
+            {
+                "id": "gs.WaitCommand",
+                "params": {
+                    "time": 60
+                },
+                "uid": "D201D0D804179846C95B4D456FAB6FAB903B",
+                "indent": 0
+            },
+            {
+                "id": "gs.BlendText",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "number": 2,
+                    "duration": 120,
+                    "waitForCompletion": 0,
+                    "opacity": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    }
+                },
+                "uid": "368C055B57987540DE199D72131D2E706967",
+                "indent": 0
+            },
+            {
+                "id": "gs.BlendPicture",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "number": 1,
+                    "duration": 120,
+                    "waitForCompletion": 0,
+                    "opacity": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    }
+                },
+                "uid": "A61277233AF3D64C103A8738FD40CC7FFCD6",
+                "indent": 0
+            },
+            {
+                "id": "gs.WaitCommand",
+                "params": {
+                    "time": 120
+                },
+                "uid": "D059823C048DA84DED28EDA441C82783E071",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": null,
+                    "layer": 0,
+                    "duration": 120,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 0
+                    }
+                },
+                "uid": "D46A7EC34E7DA44200390701630F463055EF",
+                "indent": 0
+            }
+        ],
+        "livePreviewDisabled": false,
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "localizableStrings": {},
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "numberVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "chapterUid",
+        "order"
+    ],
+    "externalItems": []
+}
