@@ -14,7 +14,8 @@
     },
     "summary": [
         "name",
-        "type"
+        "type",
+        "order"
     ],
     "externalItems": []
 }

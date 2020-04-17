@@ -1,0 +1,110 @@
+{
+    "uid": "511275CE8474E040C76806A3693578AF9326",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Practice",
+        "type": "vn.scene",
+        "parentId": "133847F850144640D2890116918490EF7122",
+        "chapterUid": "133847F850144640D2890116918490EF7122",
+        "order": 0,
+        "livePreviewDisabled": false,
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "commands": [
+            {
+                "id": "vn.CharacterJoinScene",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "predefinedPositionId": 0,
+                    "expressionId": "9F043F55754F4841206A1712DBD14AEF936A",
+                    "characterId": "1D5EC5E66BF601477E480532D8F65965FDDF",
+                    "zOrder": 0,
+                    "origin": 1,
+                    "blendMode": 0,
+                    "positionType": 1,
+                    "motionBlur": {
+                        "enabled": 0,
+                        "delay": 2,
+                        "opacity": 100,
+                        "dissolveSpeed": 3
+                    },
+                    "position": {
+                        "x": 610,
+                        "y": -10,
+                        "angle": 0,
+                        "zoom": 1,
+                        "horizontalFlip": false,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 0
+                        }
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 0
+                    },
+                    "duration": 0,
+                    "waitForCompletion": 1,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": ""
+                    }
+                },
+                "uid": "DDD08A1259438640535A6FF6A178CC1C798C",
+                "indent": 0
+            },
+            {
+                "id": "vn.MoveCharacter",
+                "params": {
+                    "characterId": "1D5EC5E66BF601477E480532D8F65965FDDF",
+                    "predefinedPositionId": 0,
+                    "duration": 180,
+                    "waitForCompletion": 0,
+                    "positionType": 1,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "457E57F0170F454F3238406230FD55D53241",
+                "indent": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "chapterUid",
+        "order"
+    ],
+    "externalItems": []
+}

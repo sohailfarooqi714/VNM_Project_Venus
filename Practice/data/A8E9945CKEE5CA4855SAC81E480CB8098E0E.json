@@ -5,7 +5,7 @@
     "items": {
         "name": "Animation",
         "type": "game_script",
-        "order": 25,
+        "order": 26,
         "content": "",
         "parentId": "D3325122KACDEA4515SB731E37A42B9D779F",
         "folder": true,
@@ -17,5 +17,6 @@
         "name",
         "type",
         "order"
-    ]
+    ],
+    "externalItems": []
 }

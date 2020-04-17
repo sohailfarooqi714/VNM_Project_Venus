@@ -1,0 +1,26 @@
+{
+    "uid": "133847F850144640D2890116918490EF7122",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.chapter",
+        "name": "Testing Bed",
+        "commands": [
+            {
+                "id": "vn.Chapter",
+                "params": {
+                    "name": "Testing Bed",
+                    "description": ""
+                },
+                "indent": 0
+            }
+        ],
+        "order": 3
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

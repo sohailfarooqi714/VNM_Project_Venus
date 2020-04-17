@@ -5,7 +5,7 @@
     "items": {
         "name": "Scene",
         "type": "game_script",
-        "order": 24,
+        "order": 25,
         "content": "",
         "parentId": "D3325122KACDEA4515SB731E37A42B9D779F",
         "folder": true,
@@ -15,5 +15,6 @@
         "name",
         "type",
         "order"
-    ]
+    ],
+    "externalItems": []
 }

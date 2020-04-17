@@ -1,0 +1,27 @@
+{
+    "uid": "BEA6CCFE41F2824D715955C0E74743B33178",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.chapter",
+        "name": "Test Bed",
+        "commands": [
+            {
+                "id": "vn.Chapter",
+                "params": {
+                    "name": "Test Bed",
+                    "description": "Chapter for practicing "
+                },
+                "indent": 0,
+                "expanded": true
+            }
+        ],
+        "order": 5
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

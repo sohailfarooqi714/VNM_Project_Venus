@@ -473,7 +473,7 @@
             "items": {
                 "name": "Scene",
                 "type": "game_script",
-                "order": 24
+                "order": 25
             }
         },
         "C0268943K60B3A42B7SA6F1EDDCF2F642FD7": {
@@ -698,7 +698,7 @@
             "items": {
                 "name": "UI",
                 "type": "game_script",
-                "order": 23
+                "order": 24
             }
         },
         "87BE6898K0E78A48FCSB889E1DAAB10BF84B": {
@@ -1354,7 +1354,7 @@
             "items": {
                 "name": "Animation",
                 "type": "game_script",
-                "order": 25
+                "order": 26
             }
         },
         "C8BBDC08K70C4A4302S9DFBE9A4F740CE150": {
@@ -3329,7 +3329,7 @@
             "items": {
                 "name": "In-Game UI",
                 "type": "vn.chapter",
-                "order": 3
+                "order": 4
             }
         },
         "EA42D2D7212A33408C39AF1582CA441BF8A1": {
@@ -3348,7 +3348,8 @@
         "2CD7FB491476054EDE4B6F43B68F95F2BDBC": {
             "items": {
                 "name": "Component_CallSceneInterpreter",
-                "type": "game_script"
+                "type": "game_script",
+                "order": 19
             }
         },
         "2080774D799FB941B80802C8FDAC256C020C": {
@@ -3428,6 +3429,29 @@
                 "name": "Test",
                 "type": "data_record",
                 "order": 0
+            }
+        },
+        "133847F850144640D2890116918490EF7122": {
+            "items": {
+                "name": "Testing Bed",
+                "type": "vn.chapter",
+                "order": 3
+            }
+        },
+        "511275CE8474E040C76806A3693578AF9326": {
+            "items": {
+                "name": "Practice",
+                "type": "vn.scene",
+                "parentId": "133847F850144640D2890116918490EF7122",
+                "chapterUid": "133847F850144640D2890116918490EF7122",
+                "order": 0
+            }
+        },
+        "ADBDABA525B2634B1429E0E8A780B085C597": {
+            "items": {
+                "name": "Component_TestBedBehavior",
+                "type": "game_script",
+                "order": 23
             }
         }
     }
